@@ -1,0 +1,26 @@
+
+ABOUT ME
+
+My Hobbies:
+- Playing online games
+- Watching movies
+- Listening to music
+- Learning programming
+
+My Skills:
+- HTML
+- CSS
+- JavaScript
+- Basic C# programming
+
+My Interests:
+- Web development
+- Software development
+- Technology
+
+
+My Goals:
+- Improve my programming skills
+- Build useful applications
+- Become a better web developer
+
